@@ -1,0 +1,1 @@
+parts_list.delete(0, END)
